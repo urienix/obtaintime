@@ -1,0 +1,28 @@
+{
+  "name": "obtaintime",
+  "version": "0.0.1",
+  "description": "A simple module to get date and time with format",
+  "main": "obtainTime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urienix/obtaintime.git"
+  },
+  "keywords": [
+    "time",
+    "gettime",
+    "parse",
+    "date"
+  ],
+  "author": "urienix@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urienix/obtaintime/issues"
+  },
+  "homepage": "https://github.com/urienix/obtaintime#readme",
+  "dependencies": {
+    "moment-timezone": "^0.5.32"
+  }
+}
