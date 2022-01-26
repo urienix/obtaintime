@@ -1,6 +1,6 @@
 {
   "name": "obtaintime",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple module to get date and time with format",
   "main": "obtainTime.js",
   "scripts": {
